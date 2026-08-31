@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instacart-Recommendation-System
 This repository contains the implementation of a recommendation system designed to provide product recommendations based on customer purchasing patterns from Instacart’s dataset. The system predicts which items a user is most likely to reorder in their next purchase, using a combination of machine learning techniques and data analysis.
 
@@ -25,3 +26,6 @@ The data is divided into 6 files:
    Generates association rules for frequently purchased items to enhance targeted marketing and product recommendations.
 
 
+=======
+# Instacart-Recommendation-System
+>>>>>>> 0b1da7366eda6d113812ffa8f2de4fd73032da5f

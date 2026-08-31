@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# ML experiment outputs
+wandb/
+mlruns/
+runs/
+logs/
+checkpoints/
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.keras
+*.onnx
+
+# Large datasets
+data/
+datasets/
+
+# OS
+.DS_Store
+Thumbs.db
